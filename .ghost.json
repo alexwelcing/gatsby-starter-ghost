@@ -1,10 +1,10 @@
 {
   "development": {
-    "apiUrl": "https://gatsby.ghost.io",
+    "apiUrl": "https://blog-mission-log.space/",
     "contentApiKey": "bd897bb5c9c7d8a13c08368aec"
   },
   "production": {
-    "apiUrl": "https://gatsby.ghost.io",
+    "apiUrl": "https://blog-mission-log.space/",
     "contentApiKey": "bd897bb5c9c7d8a13c08368aec"
   }
 }

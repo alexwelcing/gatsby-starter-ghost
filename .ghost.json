@@ -1,10 +1,10 @@
 {
   "development": {
-    "apiUrl": "https://blog-mission-log.space",
-    "contentApiKey": "bd897bb5c9c7d8a13c08368aec"
+    "apiUrl": "http://35.239.188.161",
+    "contentApiKey": "100cea2c2958f98d14e2336240"
   },
   "production": {
-    "apiUrl": "https://blog-mission-log.space",
-    "contentApiKey": "bd897bb5c9c7d8a13c08368aec"
+    "apiUrl": "http://35.239.188.161",
+    "contentApiKey": "100cea2c2958f98d14e2336240"
   }
 }

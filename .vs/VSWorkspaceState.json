@@ -1,6 +1,9 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\plugins\\gatsby-plugin-ghost-manifest",
+    "\\src"
   ],
+  "SelectedNode": "\\.ghost.json",
   "PreviewInSolutionExplorer": false
 }
